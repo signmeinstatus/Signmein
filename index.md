@@ -1,7 +1,7 @@
 ## Signmein App Support Page
 
 
-For any feedback or support email us at info@guardtracker.ca
+For any feedback or support email us at info@signmeinca.com
 
 
 
@@ -11,4 +11,4 @@ For any feedback or support email us at info@guardtracker.ca
 
 ### Support or Contact
 
-Having trouble with App? Contact our Support at info@groupsecurity.ca and we’ll help you sort it out.
+Having trouble with App? Contact our Support at info@signmeinca.com and we’ll help you sort it out.
